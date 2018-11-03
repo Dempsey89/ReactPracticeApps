@@ -1,13 +1,13 @@
 {
-  "main.css": "/ReactShoppingCart/react-shopping-cart/static/css/main.eb36b443.chunk.css",
-  "main.js": "/ReactShoppingCart/react-shopping-cart/static/js/main.ad73844a.chunk.js",
-  "main.js.map": "/ReactShoppingCart/react-shopping-cart/static/js/main.ad73844a.chunk.js.map",
-  "static/js/1.37f90d57.chunk.js": "/ReactShoppingCart/react-shopping-cart/static/js/1.37f90d57.chunk.js",
-  "static/js/1.37f90d57.chunk.js.map": "/ReactShoppingCart/react-shopping-cart/static/js/1.37f90d57.chunk.js.map",
-  "runtime~main.js": "/ReactShoppingCart/react-shopping-cart/static/js/runtime~main.0b1415c6.js",
-  "runtime~main.js.map": "/ReactShoppingCart/react-shopping-cart/static/js/runtime~main.0b1415c6.js.map",
-  "static/css/main.eb36b443.chunk.css.map": "/ReactShoppingCart/react-shopping-cart/static/css/main.eb36b443.chunk.css.map",
-  "index.html": "/ReactShoppingCart/react-shopping-cart/index.html",
-  "precache-manifest.88911051f57edd8acec13ed1d9ff3889.js": "/ReactShoppingCart/react-shopping-cart/precache-manifest.88911051f57edd8acec13ed1d9ff3889.js",
-  "service-worker.js": "/ReactShoppingCart/react-shopping-cart/service-worker.js"
+  "main.css": "/ReactShoppingCart/static/css/main.eb36b443.chunk.css",
+  "main.js": "/ReactShoppingCart/static/js/main.da63f4d9.chunk.js",
+  "main.js.map": "/ReactShoppingCart/static/js/main.da63f4d9.chunk.js.map",
+  "static/js/1.37f90d57.chunk.js": "/ReactShoppingCart/static/js/1.37f90d57.chunk.js",
+  "static/js/1.37f90d57.chunk.js.map": "/ReactShoppingCart/static/js/1.37f90d57.chunk.js.map",
+  "runtime~main.js": "/ReactShoppingCart/static/js/runtime~main.e0b1804e.js",
+  "runtime~main.js.map": "/ReactShoppingCart/static/js/runtime~main.e0b1804e.js.map",
+  "static/css/main.eb36b443.chunk.css.map": "/ReactShoppingCart/static/css/main.eb36b443.chunk.css.map",
+  "index.html": "/ReactShoppingCart/index.html",
+  "precache-manifest.7d40d348d85a8c99ac20aa0a04b2ac87.js": "/ReactShoppingCart/precache-manifest.7d40d348d85a8c99ac20aa0a04b2ac87.js",
+  "service-worker.js": "/ReactShoppingCart/service-worker.js"
 }
