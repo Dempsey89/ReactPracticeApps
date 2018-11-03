@@ -1,0 +1,58 @@
+
+.products{
+  display: inline-block;
+  margin-top: 30px;
+  margin-right: 20px;
+}
+.products button{
+  padding: 10px;
+  border-radius: 5px;
+  background-color: orange;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  margin-top: 20px;
+  outline: none;
+}
+.prouduct{
+  text-transform: uppercase;
+  font-size: 18px;
+}
+.price{
+  font-size: 18px;
+  margin-top: 5px;
+}
+.products button:hover{
+   background-color: darkorange;
+}
+.total{
+  padding: 20px;
+  width: 100%;
+  background-color: lightgray;
+}
+.total h1{
+  padding-left:40px;
+}
+.cart{
+  float: right;
+  padding: 40px;
+  border:1px solid lightgray;
+  width: 400px;
+  margin: 40px;
+}
+.currentItems{
+  display: inline-block;
+  margin: 10px;
+}
+.theItems{
+  display: block;
+}
+button.currentItems{
+  font-size: 16px;
+  background-color: gray;
+  cursor: pointer;
+  padding: 7px;
+  border-radius: 4px;
+  outline: none;
+  color: white;
+}
