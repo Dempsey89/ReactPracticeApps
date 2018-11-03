@@ -1,13 +1,13 @@
 {
-  "main.css": "/Dempsey89.io/ReactShoppingCart/react-shopping-cart/static/css/main.eb36b443.chunk.css",
-  "main.js": "/Dempsey89.io/ReactShoppingCart/react-shopping-cart/static/js/main.0cb48455.chunk.js",
-  "main.js.map": "/Dempsey89.io/ReactShoppingCart/react-shopping-cart/static/js/main.0cb48455.chunk.js.map",
-  "static/js/1.37f90d57.chunk.js": "/Dempsey89.io/ReactShoppingCart/react-shopping-cart/static/js/1.37f90d57.chunk.js",
-  "static/js/1.37f90d57.chunk.js.map": "/Dempsey89.io/ReactShoppingCart/react-shopping-cart/static/js/1.37f90d57.chunk.js.map",
-  "runtime~main.js": "/Dempsey89.io/ReactShoppingCart/react-shopping-cart/static/js/runtime~main.ee75fb70.js",
-  "runtime~main.js.map": "/Dempsey89.io/ReactShoppingCart/react-shopping-cart/static/js/runtime~main.ee75fb70.js.map",
-  "static/css/main.eb36b443.chunk.css.map": "/Dempsey89.io/ReactShoppingCart/react-shopping-cart/static/css/main.eb36b443.chunk.css.map",
-  "index.html": "/Dempsey89.io/ReactShoppingCart/react-shopping-cart/index.html",
-  "precache-manifest.973ef13a362ebceab1b2be3a2df4e6d6.js": "/Dempsey89.io/ReactShoppingCart/react-shopping-cart/precache-manifest.973ef13a362ebceab1b2be3a2df4e6d6.js",
-  "service-worker.js": "/Dempsey89.io/ReactShoppingCart/react-shopping-cart/service-worker.js"
+  "main.css": "/ReactShoppingCart/react-shopping-cart/static/css/main.eb36b443.chunk.css",
+  "main.js": "/ReactShoppingCart/react-shopping-cart/static/js/main.ad73844a.chunk.js",
+  "main.js.map": "/ReactShoppingCart/react-shopping-cart/static/js/main.ad73844a.chunk.js.map",
+  "static/js/1.37f90d57.chunk.js": "/ReactShoppingCart/react-shopping-cart/static/js/1.37f90d57.chunk.js",
+  "static/js/1.37f90d57.chunk.js.map": "/ReactShoppingCart/react-shopping-cart/static/js/1.37f90d57.chunk.js.map",
+  "runtime~main.js": "/ReactShoppingCart/react-shopping-cart/static/js/runtime~main.0b1415c6.js",
+  "runtime~main.js.map": "/ReactShoppingCart/react-shopping-cart/static/js/runtime~main.0b1415c6.js.map",
+  "static/css/main.eb36b443.chunk.css.map": "/ReactShoppingCart/react-shopping-cart/static/css/main.eb36b443.chunk.css.map",
+  "index.html": "/ReactShoppingCart/react-shopping-cart/index.html",
+  "precache-manifest.88911051f57edd8acec13ed1d9ff3889.js": "/ReactShoppingCart/react-shopping-cart/precache-manifest.88911051f57edd8acec13ed1d9ff3889.js",
+  "service-worker.js": "/ReactShoppingCart/react-shopping-cart/service-worker.js"
 }
